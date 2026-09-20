@@ -2,12 +2,12 @@
 
 let age = undefined
 
-console.log(typeof(age))
+// console.log(typeof(age))
 
 let valueInNumber = Number(age)
 
-console.log(typeof(valueInNumber));
-console.log(valueInNumber);
+// console.log(typeof(valueInNumber));
+// console.log(valueInNumber);
 
 
 // "33" => 33 string to no;
@@ -20,11 +20,11 @@ console.log(valueInNumber);
 
 let isLoggedIn = 1
 
-console .log(typeof(isLoggedIn))
+// console .log(typeof(isLoggedIn))
 
 let booleanLoggedIn = Boolean(isLoggedIn)
-console.log(typeof(booleanLoggedIn))
-console.log(booleanLoggedIn);
+// console.log(typeof(booleanLoggedIn))
+// console.log(booleanLoggedIn);
 
 
 // 1 => true. ;  0=> false;
@@ -37,5 +37,51 @@ let count = 42
 
 let stringCount = String(count)
 
-console.log(typeof( stringCount))
-console.log(stringCount)
+// console.log(typeof( stringCount))
+// console.log(stringCount)
+
+
+
+
+
+//*********************************** Operations ********************************* 
+
+let value = 3
+let negValue = -value
+
+// console.log(negValue);
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**2);
+// console.log(2**2);
+// console.log(2%2);
+
+
+let str1 = "hello"
+let str2 =" cyrus"
+
+let str3 =  str1+ str2
+
+// console.log(str3);
+
+
+// console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("1" + 2+ 2);
+// console.log( 1+ 2 + 4+ "5");
+// console.log ((3+4) * 5 % 3); 
+
+
+// console.log(true)
+
+let num1, num2, num3 
+
+num1= num2 = num3 = 2+4
+
+let gameCounter = 100 
+gameCounter++;
+++ gameCounter;
+
+console.log(gameCounter);
