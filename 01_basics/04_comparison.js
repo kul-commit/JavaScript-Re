@@ -22,3 +22,4 @@ console.log(undefined==1);
 // === is used for strict check
 
 console.log("2" === 2);
+
