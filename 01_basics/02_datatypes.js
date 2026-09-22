@@ -31,6 +31,15 @@ let isLoggedIn= false
 let length = 20;
 let width = 10;
 
-let area = length * width;
+let areaR = length * width;
+
+console.log(area);
+
+
+//Circle area
+let radius = 7;
+let pi = 3.14;
+
+let area = pi * radius ** 2;
 
 console.log(area);
