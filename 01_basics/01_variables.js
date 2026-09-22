@@ -56,3 +56,13 @@ b = temp;
 
 console.log(a);
 console.log(b);
+
+
+//Combine variables
+
+let product = "Laptop";
+let price = 50000;
+
+console.log("I bought a " + product + " for " + price + " rupees.");
+
+
