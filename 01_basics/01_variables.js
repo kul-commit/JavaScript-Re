@@ -43,3 +43,16 @@ let score = 85
 score = 95
 
 console.log(score)
+
+
+//Swap two variables
+
+let a = 10;
+let b = 20;
+
+let temp = a;
+a = b;
+b = temp;
+
+console.log(a);
+console.log(b);
