@@ -66,3 +66,5 @@ let price = 50000;
 console.log("I bought a " + product + " for " + price + " rupees.");
 
 
+
+

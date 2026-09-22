@@ -24,3 +24,13 @@ let isLoggedIn= false
     console.log(typeof "kul")
     console.log(typeof null) // object
     console.log(typeof undefined) // undefined
+
+
+
+    //Rectangle area
+let length = 20;
+let width = 10;
+
+let area = length * width;
+
+console.log(area);
